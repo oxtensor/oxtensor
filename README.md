@@ -1,6 +1,6 @@
-# Hi, I'm 0xtensor
+# Hi, I'm 0xτensor
 
 Blockchain & AI engineer focused on decentralized systems.
 
-**Stack:** Python • Rust • Solidity
-**Focus:** Bittensor • Web3 • Decentralized AI
+**Stack:** `Python` • `Rust` • `Solidity` • `PyTorch` • `Substrate` • `Docker`
+**Focus:** `Bittensor` • `Web3` • `Decentralized AI`
